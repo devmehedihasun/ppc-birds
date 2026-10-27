@@ -1,0 +1,7 @@
+Brand logos in this folder
+- Google Ads, Meta, TikTok, Google Tag Manager, WordPress, Wix, Squarespace, GoDaddy, Shopify, Google Analytics:
+  paths from Simple Icons (https://simpleicons.org), CC0 1.0. Colours applied to match each brand.
+- ChatGPT/OpenAI: path from Font Awesome Free 7 brands, CC BY 4.0 (https://fontawesome.com/license/free).
+- Microsoft Advertising: Microsoft four-square mark, drawn from its published colours.
+- callrail.svg, calltrackingmetrics.svg: PLACEHOLDERS. Replace with the official logo files from each company's brand page.
+All logos are trademarks of their respective owners and are used to identify the platforms PPC Birds manages.
